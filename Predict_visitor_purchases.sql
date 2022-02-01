@@ -125,7 +125,7 @@ FROM
 ));
 
 
-/*The evaluation of your model indicates a roc_auc of 0.72,
+/*The evaluation of  model indicates a roc_auc of 0.72,
 corresponding to poor predictive performance. The goal here being to obtain a space under the curve as close as possible to 1,
 there is room for improvement*/
 
